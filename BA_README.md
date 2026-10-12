@@ -2,11 +2,6 @@
 
 ### Requirements Engineering · Product Analysis · SaaS Workflows · UAT
 
-> Ticket-derived work samples based on requirements I have documented
-> for Fullintel and MadeAI workflows. These artefacts demonstrate
-> problem analysis, functional decomposition, user stories, acceptance
-> criteria, edge cases, and validation planning.
-
 **Target roles:** Business Analyst · Product Analyst · Product
 Operations Analyst\
 **Domains:** Media Intelligence SaaS · Search & Monitoring · Newsletters
@@ -876,28 +871,15 @@ show the breadth of product analysis, not to claim completion.
 -   [ ] Delivery status is verified before describing a ticket as
     complete.
 
-## Public portfolio and confidentiality
-
--   Do not publish internal screenshots, private Jira URLs, credentials,
-    customer records, email addresses, or confidential product
-    documentation without approval.
--   Anonymise customer-specific examples when necessary.
--   Describe individual contributions accurately and distinguish them
-    from team delivery.
--   Label mock tickets as proposed.
--   Do not claim quantified impact without verified baseline and outcome
-    data.
--   Treat acceptance criteria as planned verification, not proof that
-    tests passed.
 
 ## Contact
 
 **Business Analyst \| Product Administration \| SaaS & Requirements
 Analysis**
 
--   LinkedIn: `[Add LinkedIn URL]`
--   Email: `[Add professional email]`
--   GitHub: `[Add GitHub profile URL]`
+-   LinkedIn: `https://www.linkedin.com/in/cibinoross/`
+-   Email: `cibinoross@gmail.com`
+-   GitHub: `https://github.com/cibinoross/business-analyst-portfolio`
 
 *This portfolio demonstrates requirements analysis, functional
 decomposition, acceptance-criteria writing, and test-oriented thinking.*
