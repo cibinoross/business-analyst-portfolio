@@ -2,11 +2,6 @@
 
 ### SaaS Product Analysis · Requirements Engineering · UAT · AI/ML Workflows
 
-> **Portfolio purpose:** Demonstrate practical business-analysis work
-> across media intelligence SaaS and AI-powered research products,
-> including problem analysis, functional requirements, user stories,
-> acceptance criteria, testing considerations, and cross-functional
-> coordination.
 
 **Target roles:** Business Analyst · Product Analyst · Product
 Operations Analyst\
